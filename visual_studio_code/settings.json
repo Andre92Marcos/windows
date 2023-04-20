@@ -1,1 +1,4 @@
+#this is user settings.json
 "editor.renderWhitespace": "all", # shows all whitespaces
+"editor.insertSpaces": false, # shows tab as not spaces
+"editor.tabSize": 4,
